@@ -1,5 +1,4 @@
-<section id="IKmibKo" data-type="section">
-  <style id="pdlvmVS" type="text/css">
+<section id="IKmibKo" data-type="section"><style id="pdlvmVS" type="text/css">
     
   @media screen and (min-width:0px){#dGDHQxU{width:100vw;height:100vh;position:relative}}
   @media screen and (min-width:0px){#cdZBUkn{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
@@ -17,45 +16,4 @@
   @media screen and (min-width:0px){#gzUgEqT{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
   @media screen and (max-width:640px){#lfiRcbu{gap:10px;}}
   
-  </style>
-  
-  <div id="dGDHQxU" data-type="container">
-    <div id="vuZgifr" data-type="backgrounds">
-      
-      <div id="VnsyXwf" data-type="bg-color" class="div-visible">
-        <div id="KXKDDJi" data-type="solid-color" class="div-visible" style="background: rgb(255, 8, 0);"></div>
-        <div id="jwQKrvr" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
-        <div id="zSqjTKx" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
-      </div> <!-- bg-color -->
-
-      <div id="Kjfwtdi" data-type="bg-image" class="div-hidden">
-        <picture id="JkMqWwk">
-          <source srcset="" media="(max-width:640px)">
-          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-          <img id="cdZBUkn" src="./assets/image/tapas-hero1.png" data-type="img-bg" loading="lazy">
-        </picture>
-      </div> <!-- bg-image -->
-
-      <div id="UfMsQWS" data-type="bg-video" class="div-hidden">
-        <video id="qDJKJJI" autoplay="" loop="" muted="">
-          <source src="https://previews.customer.envatousercontent.com/0e86408d-ad59-4c94-8e0d-8799ad96d063/watermarked_preview/watermarked_preview.mp4" type="video/mp4">
-        </video>
-      </div> <!-- bg-video -->
-
-    </div> <!-- backgrounds -->
-
-    <div id="CJPhSMZ" data-type="content">
-      <div id="lfiRcbu">
-        <h2 id="MoHjLPr" contenteditable="true">ROJO</h2>
-        <p id="FHtUONQ" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p>
-        <div id="sMNrgyU">
-          <a id="hcoKvdh" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="gzUgEqT" contenteditable="true" href="https://www">LOREM IPSUM</a>
-        </div> <!-- div2ID -->
-      </div> <!-- div1ID -->
-    </div> <!-- content -->
-  </div> <!-- container -->
-  <button class="toolbar-open" onclick="toolsOpenModal(this);">
-    <img src="../global/file/edit-section.svg">
-  </button>
-</section>
+  </style><div id="dGDHQxU" data-type="container"><div id="vuZgifr" data-type="backgrounds"><div id="VnsyXwf" data-type="bg-color" class="div-visible"><div id="KXKDDJi" data-type="solid-color" class="div-visible" style="background: rgb(255, 8, 0);"></div><div id="jwQKrvr" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div><div id="zSqjTKx" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div></div><!-- bg-color --><div id="Kjfwtdi" data-type="bg-image" class="div-hidden"><picture id="JkMqWwk"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="cdZBUkn" src="./assets/image/tapas-hero1.png" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="UfMsQWS" data-type="bg-video" class="div-hidden"><video id="qDJKJJI" autoplay="" loop="" muted=""><source src="https://previews.customer.envatousercontent.com/0e86408d-ad59-4c94-8e0d-8799ad96d063/watermarked_preview/watermarked_preview.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="CJPhSMZ" data-type="content"><div id="lfiRcbu"><h2 id="MoHjLPr" contenteditable="true">PAGE ROJO</h2><p id="FHtUONQ" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p><div id="sMNrgyU"><a id="hcoKvdh" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="gzUgEqT" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this);"><img src="../global/file/edit-section.svg"></button></section>
